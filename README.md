@@ -1,2 +1,2 @@
 # Web-Programlama-Proje
- Web Programlama Proje Ödevi
+Bu web projesinde kendimi ve İstanbul şehrini tanıtmayı planlıyorum.
