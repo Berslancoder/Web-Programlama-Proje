@@ -156,3 +156,5 @@ C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\ref\Web
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\WebProgramlamaProje.pdb
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\WebProgramlamaProje.genruntimeconfig.cache
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
+C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Home\Blog.cshtml.g.cs
+C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Home\Landmarks.cshtml.g.cs
