@@ -44,7 +44,6 @@ C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\Microso
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\Newtonsoft.Json.dll
-C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\NuGet.Frameworks.dll
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\System.Composition.AttributedModel.dll
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\System.Composition.Convention.dll
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\System.Composition.Hosting.dll
@@ -158,3 +157,6 @@ C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\WebProg
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Shared\_Layout - Copy.cshtml.g.cs
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Home\Blog.cshtml.g.cs
 C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\obj\Debug\net5.0\Razor\Views\Home\Landmarks.cshtml.g.cs
+C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\Humanizer.dll
+C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\BURAK HIZLIOK\source\repos\WebProgramlamaProje\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
